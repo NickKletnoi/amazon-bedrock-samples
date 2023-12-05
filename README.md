@@ -1,5 +1,9 @@
 # Amazon Bedrock Samples 
 
+# create an S3 ref. first
+
+#https://stackoverflow.com/questions/58402319/connect-jupyter-notebook-locally-to-aws-s3-without-sagemaker
+
 This repository contains pre-built examples to help customers get started with the Amazon Bedrock service.
 
 ## Contents
